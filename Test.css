@@ -1,0 +1,23 @@
+.templateSA{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    color: blueviolet;
+}
+.contanerListSA{
+    border: 2px solid blue;
+    margin: 10px;
+ }
+
+ .templateSB{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(18, 185, 207);
+    width: 120px;
+}
+
+.contanerListSB{
+    border: 2px solid red;
+    margin: 10px;
+}

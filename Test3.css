@@ -1,0 +1,44 @@
+.templateSA{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    color: blueviolet;
+}
+.contanerListSA{
+    border: 2px solid blue;
+    margin: 10px;
+ }
+
+ .templateSB{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(18, 185, 207);
+    width: 120px;
+}
+
+.contanerListSB{
+    border: 2px solid red;
+    margin: 10px;
+}
+#cardAll{
+    display: flex;
+    flex-direction: row;
+    
+}
+.style1{
+    border: 5px solid red;
+    margin: 5px;
+}
+.style2{
+    border: 5px solid blue;
+    margin: 5px;
+}
+.style3{
+    border: 5px solid powderblue;
+    margin: 5px;
+}
+.cards{
+    display: flex;
+    flex-direction: row
+}
